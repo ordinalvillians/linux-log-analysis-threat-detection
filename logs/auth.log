@@ -1,0 +1,18 @@
+Oct 12 08:14:21 kali sshd[2141]: Failed password for invalid user admin from 198.51.100.42 port 43122 ssh2
+Oct 12 08:14:25 kali sshd[2142]: Failed password for invalid user admin from 198.51.100.42 port 43128 ssh2
+Oct 12 08:14:29 kali sshd[2143]: Failed password for invalid user admin from 198.51.100.42 port 43134 ssh2
+Oct 12 08:14:34 kali sshd[2144]: Failed password for root from 198.51.100.42 port 43140 ssh2
+Oct 12 08:14:39 kali sshd[2145]: Failed password for root from 198.51.100.42 port 43146 ssh2
+Oct 12 08:15:02 kali sshd[2146]: Accepted password for sean from 192.168.217.1 port 51822 ssh2
+Oct 12 08:15:03 kali sshd[2146]: pam_unix(sshd:session): session opened for user sean
+Oct 12 08:17:44 kali sshd[2147]: Failed password for invalid user test from 10.10.10.25 port 39210 ssh2
+Oct 12 08:17:51 kali sshd[2148]: Failed password for invalid user test from 10.10.10.25 port 39216 ssh2
+Oct 12 08:18:03 kali sshd[2149]: Failed password for invalid user guest from 10.10.10.25 port 39222 ssh2
+Oct 12 08:18:17 kali sshd[2150]: Failed password for invalid user guest from 10.10.10.25 port 39228 ssh2
+Oct 12 08:19:01 kali sshd[2151]: Accepted password for sean from 192.168.217.1 port 51831 ssh2
+Oct 12 08:19:02 kali sshd[2151]: pam_unix(sshd:session): session opened for user sean
+Oct 12 08:21:33 kali sshd[2152]: Failed password for root from 203.0.113.55 port 44001 ssh2
+Oct 12 08:21:39 kali sshd[2153]: Failed password for root from 203.0.113.55 port 44007 ssh2
+Oct 12 08:21:45 kali sshd[2154]: Failed password for root from 203.0.113.55 port 44013 ssh2
+Oct 12 08:22:12 kali sshd[2155]: Accepted password for sean from 192.168.217.1 port 51844 ssh2
+Oct 12 08:22:13 kali sshd[2155]: pam_unix(sshd:session): session opened for user sean
